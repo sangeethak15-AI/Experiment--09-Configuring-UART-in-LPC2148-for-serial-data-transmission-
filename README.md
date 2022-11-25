@@ -3,9 +3,8 @@
 Name :Sangeetha.K	
 
 Roll no :212221230085 
+
 Date of experiment :
-
-
 
  Date: 
 ### Configuring UART in LPC2148 for serial data transmission 
@@ -76,9 +75,13 @@ int main (void)  {
 }
 ```
 
-
-
 ### Output screen shots :
+![image](https://user-images.githubusercontent.com/93992063/203938480-14d89abc-e6d9-4265-998e-1e146b411c3f.png)
+
+![image](https://user-images.githubusercontent.com/93992063/203938370-b8ba8186-37ee-453c-a179-2f2a2490eb17.png)
+
+![image](https://user-images.githubusercontent.com/93992063/203938599-3944c509-a6cf-4e54-bb4f-4c2575faafa5.png)
+
 
 
 ### Result :
